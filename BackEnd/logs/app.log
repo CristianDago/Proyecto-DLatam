@@ -1,0 +1,178 @@
+2024-12-11T12:07:12.089Z [ERROR]: El email no se encuentra registrado
+2024-12-11T14:32:01.223Z [ERROR]: El email no se encuentra registrado
+2024-12-11T15:02:37.554Z [ERROR]: El email no se encuentra registrado
+2024-12-11T15:02:40.383Z [ERROR]: El email no se encuentra registrado
+2024-12-11T15:02:57.910Z [ERROR]: La contraseña es incorrecta
+2024-12-11T15:07:08.672Z [ERROR]: El rol 'undefined' no es válido. Los roles permitidos son: admin, catcher, editor, visit
+2024-12-11T18:48:02.245Z [ERROR]: El email no se encuentra registrado
+2024-12-11T18:49:43.607Z [ERROR]: La contraseña es incorrecta
+2024-12-11T19:49:39.786Z [ERROR]: "password" length must be at least 6 characters long
+2024-12-11T19:49:56.182Z [ERROR]: "email" must be a valid email
+2024-12-11T19:50:18.067Z [ERROR]: El email no se encuentra registrado
+2024-12-12T01:43:25.230Z [ERROR]: El email no se encuentra registrado
+2024-12-12T01:44:10.922Z [ERROR]: La contraseña es incorrecta
+2024-12-12T03:43:28.182Z [ERROR]: Expected property name or '}' in JSON at position 1 (line 1 column 2)
+2024-12-12T03:46:39.823Z [ERROR]: Expected double-quoted property name in JSON at position 36 (line 4 column 1)
+2024-12-12T03:49:25.005Z [ERROR]: Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
+2024-12-12T15:32:40.361Z [ERROR]: El email no se encuentra registrado
+2024-12-12T15:32:58.114Z [ERROR]: "password" length must be at least 6 characters long
+2024-12-12T15:33:07.940Z [ERROR]: La contraseña es incorrecta
+2024-12-12T15:33:34.925Z [ERROR]: "email" is not allowed to be empty
+2024-12-12T15:33:48.792Z [ERROR]: "email" is required
+2024-12-12T16:57:57.480Z [ERROR]: El campo de correo electrónico no puede estar vacío.
+2024-12-12T16:58:10.020Z [ERROR]: El formato del correo electrónico es inválido.
+2024-12-12T16:58:28.873Z [ERROR]: El correo electrónico es obligatorio.
+2024-12-12T16:58:51.211Z [ERROR]: El email no se encuentra registrado
+2024-12-12T16:59:38.937Z [ERROR]: La contraseña debe tener al menos 6 caracteres.
+2024-12-12T16:59:46.413Z [ERROR]: La contraseña es incorrecta
+2024-12-12T17:00:36.423Z [ERROR]: El campo de correo electrónico no puede estar vacío.
+2024-12-12T17:13:15.857Z [ERROR]: El email ya está registrado
+2024-12-12T17:15:34.745Z [ERROR]: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-12-12T17:16:04.232Z [ERROR]: El email ya está registrado
+2024-12-12T17:16:44.355Z [ERROR]: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-12-12T20:54:48.969Z [ERROR]: El formato del correo electrónico es inválido.
+2024-12-12T20:55:27.614Z [ERROR]: El email no se encuentra registrado
+2024-12-12T20:55:38.080Z [ERROR]: El campo de correo electrónico no puede estar vacío.
+2024-12-12T20:55:51.022Z [ERROR]: La contraseña debe tener al menos 6 caracteres.
+2024-12-12T20:56:06.371Z [ERROR]: El correo electrónico es obligatorio.
+2024-12-12T20:56:25.878Z [ERROR]: El email no se encuentra registrado
+2024-12-12T20:56:34.958Z [ERROR]: La contraseña es incorrecta
+2024-12-12T20:57:02.005Z [ERROR]: El email no se encuentra registrado
+2024-12-12T20:58:11.669Z [ERROR]: El email ya está registrado
+2024-12-12T20:59:31.637Z [ERROR]: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-12-12T21:08:06.591Z [ERROR]: El email ya está registrado
+2024-12-12T21:08:15.193Z [ERROR]: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-12-12T21:10:04.328Z [ERROR]: El formato de expiresIn no es válido. Use una cadena como '1h', '1d', etc.
+2024-12-12T21:11:30.643Z [ERROR]: El email ya está registrado
+2024-12-12T21:11:36.589Z [ERROR]: El formato de expiresIn no es válido. Use una cadena como '1h', '1d', etc.
+2024-12-12T21:17:31.324Z [ERROR]: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-12-13T01:20:02.750Z [ERROR]: El email no se encuentra registrado
+2024-12-13T01:20:13.924Z [ERROR]: La contraseña debe tener al menos 6 caracteres.
+2024-12-13T01:20:25.692Z [ERROR]: La contraseña es incorrecta
+2024-12-13T01:20:53.663Z [ERROR]: Expected ':' after property name in JSON at position 6 (line 2 column 5)
+2024-12-13T01:21:07.209Z [ERROR]: El correo electrónico es obligatorio.
+2024-12-13T01:21:16.687Z [ERROR]: El campo de correo electrónico no puede estar vacío.
+2024-12-13T01:21:26.580Z [ERROR]: Bad control character in string literal in JSON at position 6 (line 2 column 5)
+2024-12-13T01:35:55.708Z [ERROR]: El correo electrónico es obligatorio.
+2024-12-13T01:36:42.679Z [ERROR]: Expected ',' or '}' after property value in JSON at position 69 (line 4 column 3)
+2024-12-13T01:36:58.938Z [ERROR]: El email ya está registrado
+2024-12-13T01:37:32.664Z [ERROR]: El email ya está registrado
+2024-12-13T01:45:15.418Z [ERROR]: Expected double-quoted property name in JSON at position 66 (line 5 column 1)
+2024-12-13T02:02:25.272Z [ERROR]: El email ya está registrado
+2024-12-13T02:07:03.117Z [ERROR]: la sintaxis de entrada no es válida para tipo uuid: «186d2163-179d-4825-b1f8-438fad4ed9a»
+2024-12-13T02:07:21.672Z [ERROR]: la sintaxis de entrada no es válida para tipo uuid: «186d2163-179d-4825-b1f8-438fad4ed9a»
+2024-12-13T02:07:29.180Z [ERROR]: El ID de usuario no es válido
+2024-12-13T02:08:03.687Z [ERROR]: llave duplicada viola restricción de unicidad «users_email_key»
+2024-12-13T02:08:45.914Z [ERROR]: llave duplicada viola restricción de unicidad «users_email_key»
+2024-12-13T02:09:02.766Z [ERROR]: error de sintaxis en o cerca de «users»
+2024-12-13T02:26:49.915Z [ERROR]: error de sintaxis en o cerca de «users»
+2024-12-13T02:31:15.122Z [ERROR]: error de sintaxis en o cerca de «users»
+2024-12-13T02:35:21.245Z [ERROR]: error de sintaxis en o cerca de «users»
+2024-12-13T02:37:18.015Z [ERROR]: error de sintaxis en o cerca de «users»
+2024-12-13T02:46:10.653Z [ERROR]: El rol 'adin' no es válido. Los roles permitidos son: admin, catcher, editor, visit
+2024-12-13T02:51:38.679Z [ERROR]: error de sintaxis en o cerca de «users»
+2024-12-13T02:52:51.775Z [ERROR]: error de sintaxis en o cerca de «users»
+2024-12-13T03:29:32.405Z [ERROR]: El email no se encuentra registrado
+2024-12-13T03:30:06.765Z [ERROR]: La contraseña es incorrecta
+2024-12-13T03:36:46.756Z [ERROR]: No se pudo actualizar el usuario: ID inválido
+2024-12-13T03:37:18.010Z [ERROR]: la sintaxis de entrada no es válida para tipo uuid: «186d2163-179d-4825-b44f8-438fad4ed9ae»
+2024-12-13T03:58:53.899Z [ERROR]: El email no se encuentra registrado
+2024-12-13T04:08:59.575Z [ERROR]: El email no se encuentra registrado
+2024-12-13T04:09:20.368Z [ERROR]: El email no se encuentra registrado
+2024-12-13T04:09:41.837Z [ERROR]: El email no se encuentra registrado
+2024-12-13T04:10:05.980Z [ERROR]: El email no se encuentra registrado
+2024-12-13T04:18:32.321Z [ERROR]: El formato del correo electrónico es inválido.
+2024-12-13T04:18:44.147Z [ERROR]: El email no se encuentra registrado
+2024-12-13T04:19:11.277Z [ERROR]: El email no se encuentra registrado
+2024-12-13T04:19:20.270Z [ERROR]: La contraseña es incorrecta
+2024-12-13T04:19:45.681Z [ERROR]: El correo electrónico es obligatorio.
+2024-12-13T04:42:13.063Z [ERROR]: El email no se encuentra registrado
+2024-12-13T04:42:47.491Z [ERROR]: La contraseña es incorrecta
+2024-12-13T04:43:00.933Z [ERROR]: El campo de correo electrónico no puede estar vacío.
+2024-12-13T04:43:19.352Z [ERROR]: El campo de contraseña no puede estar vacío.
+2024-12-13T04:43:30.693Z [ERROR]: La contraseña es incorrecta
+2024-12-13T04:43:40.646Z [ERROR]: La contraseña debe tener al menos 6 caracteres.
+2024-12-13T04:47:25.399Z [ERROR]: El email ya está registrado
+2024-12-13T04:55:37.967Z [ERROR]: No se pudo actualizar el usuario: ID inválido
+2024-12-13T04:56:27.592Z [ERROR]: llave duplicada viola restricción de unicidad «users_email_key»
+2024-12-13T05:00:22.722Z [ERROR]: llave duplicada viola restricción de unicidad «users_email_key»
+2024-12-13T05:00:54.709Z [ERROR]: llave duplicada viola restricción de unicidad «users_email_key»
+2024-12-13T05:02:49.008Z [ERROR]: llave duplicada viola restricción de unicidad «users_email_key»
+2024-12-13T05:03:57.684Z [ERROR]: llave duplicada viola restricción de unicidad «users_email_key»
+2024-12-13T05:07:08.245Z [ERROR]: llave duplicada viola restricción de unicidad «users_email_key»
+2024-12-13T05:09:36.753Z [ERROR]: llave duplicada viola restricción de unicidad «users_email_key»
+2024-12-13T06:04:49.606Z [ERROR]: No se encontraron estudiantes registrados
+2024-12-13T06:05:10.871Z [ERROR]: no existe la columna «callstatus» en la relación «students»
+2024-12-13T06:20:52.994Z [ERROR]: No se encontraron estudiantes registrados
+2024-12-13T06:21:04.304Z [ERROR]: no existe la columna «callstatus» en la relación «students»
+2024-12-13T06:23:55.595Z [ERROR]: no existe la columna «callstatus» en la relación «students»
+2024-12-13T06:27:40.739Z [ERROR]: no existe la columna «callstatus» en la relación «students»
+2024-12-13T06:29:05.095Z [ERROR]: No se encontraron estudiantes registrados
+2024-12-13T06:29:38.390Z [ERROR]: no existe la columna «callstatus» en la relación «students»
+2024-12-13T06:44:54.031Z [ERROR]: Cannot read properties of undefined (reading 'completed')
+2024-12-13T06:47:04.945Z [ERROR]: no existe la columna «call1» en la relación «students»
+2024-12-13T06:48:30.934Z [ERROR]: INSERT tiene más columnas de destino que expresiones
+2024-12-13T06:51:38.898Z [ERROR]: INSERT tiene más columnas de destino que expresiones
+2024-12-13T06:52:15.776Z [ERROR]: INSERT tiene más columnas de destino que expresiones
+2024-12-13T07:00:35.920Z [ERROR]: no existe la columna «contactdate» en la relación «students»
+2024-12-13T07:03:19.116Z [ERROR]: INSERT tiene más columnas de destino que expresiones
+2024-12-13T07:06:03.671Z [ERROR]: INSERT tiene más columnas de destino que expresiones
+2024-12-13T12:48:17.641Z [ERROR]: No se encontraron estudiantes registrados
+2024-12-13T12:48:28.936Z [ERROR]: INSERT tiene más columnas de destino que expresiones
+2024-12-13T12:57:31.136Z [ERROR]: INSERT tiene más columnas de destino que expresiones
+2024-12-13T13:09:06.942Z [ERROR]: El email ya está registrado
+2024-12-13T13:31:58.156Z [ERROR]: No se encontraron estudiantes registrados
+2024-12-13T13:32:19.589Z [ERROR]: el valor nulo en la columna «phone» de la relación «students» viola la restricción de no nulo
+2024-12-13T13:40:35.355Z [ERROR]: Expected ',' or '}' after property value in JSON at position 80 (line 4 column 36)
+2024-12-13T13:46:01.249Z [ERROR]: El número de teléfono es obligatorio
+2024-12-13T13:50:18.749Z [ERROR]: El número de teléfono es obligatorio
+2024-12-13T13:50:34.745Z [ERROR]: la sintaxis de entrada no es válida para tipo bigint: «carlos.perez@gmail.com»
+2024-12-13T13:50:48.058Z [ERROR]: el valor nulo en la columna «email» de la relación «students» viola la restricción de no nulo
+2024-12-13T13:51:50.457Z [ERROR]: El apellido es obligatorio
+2024-12-13T14:04:13.993Z [ERROR]: No se encontraron estudiantes registrados
+2024-12-13T14:06:45.569Z [ERROR]: El número de teléfono es obligatorio
+2024-12-13T14:28:53.951Z [ERROR]: El email ya está registrado
+2024-12-13T14:31:44.142Z [ERROR]: El email ya está registrado
+2024-12-13T14:39:13.005Z [ERROR]: El apellido es obligatorio
+2024-12-13T14:39:25.118Z [ERROR]: El email ya está registrado
+2024-12-13T14:40:48.770Z [ERROR]: El apellido es obligatorio
+2024-12-13T14:40:59.628Z [ERROR]: El nombre es obligatorio
+2024-12-13T14:41:08.921Z [ERROR]: El email ya está registrado
+2024-12-13T14:42:54.377Z [ERROR]: la sintaxis de entrada no es válida para tipo uuid: «cac5e120-36f7-407e-a6c9-ba423175a5dr»
+2024-12-13T14:43:17.781Z [ERROR]: la sintaxis de entrada no es válida para tipo uuid: «cac5e120-36f7-407e-a6c9-ba423175a5d»
+2024-12-13T14:43:26.573Z [ERROR]: El ID de estudiante no es válido
+2024-12-13T14:43:35.440Z [ERROR]: El ID de estudiante no es válido
+2024-12-13T14:44:28.042Z [ERROR]: El ID de estudiante no es válido
+2024-12-13T14:45:14.502Z [ERROR]: El ID de estudiante no es válido
+2024-12-13T14:46:02.444Z [ERROR]: El ID de estudiante no es válido
+2024-12-13T14:46:40.580Z [ERROR]: El ID de estudiante no es válido
+2024-12-13T15:00:26.425Z [ERROR]: la sintaxis de entrada no es válida para tipo uuid: «9ace940a-203f-4fd1-a677-df8a588ac9vc»
+2024-12-13T15:00:44.273Z [ERROR]: No se encontró el estudiante para eliminar
+2024-12-13T15:01:16.147Z [ERROR]: No se pudo actualizar el estudiante: ID inválido
+2024-12-13T15:03:23.174Z [ERROR]: No se pudo actualizar el estudiante: ID inválido
+2024-12-13T15:07:57.523Z [ERROR]: El email no se puede modificar
+2024-12-13T15:08:24.363Z [ERROR]: El email no se puede modificar
+2024-12-13T15:08:32.989Z [ERROR]: El email no se puede modificar
+2024-12-13T15:08:54.535Z [ERROR]: El email no se puede modificar
+2024-12-13T15:09:54.447Z [ERROR]: El email no se puede modificar
+2024-12-13T15:10:07.237Z [ERROR]: El email no se puede modificar
+2024-12-13T15:12:20.117Z [ERROR]: El email ya está registrado por otro estudiante
+2024-12-13T15:41:42.328Z [ERROR]: El email ya está registrado por otro estudiante
+2024-12-13T16:02:36.625Z [ERROR]: El email no se encuentra registrado
+2024-12-13T16:02:50.760Z [ERROR]: La contraseña debe tener al menos 6 caracteres.
+2024-12-13T16:02:58.984Z [ERROR]: La contraseña es incorrecta
+2024-12-13T16:03:16.785Z [ERROR]: El formato del correo electrónico es inválido.
+2024-12-13T16:03:28.088Z [ERROR]: El campo de correo electrónico no puede estar vacío.
+2024-12-13T16:03:35.949Z [ERROR]: La contraseña es incorrecta
+2024-12-13T16:04:34.324Z [ERROR]: El email ya está registrado
+2024-12-13T16:05:24.494Z [ERROR]: El email ya está registrado
+2024-12-13T16:07:52.342Z [ERROR]: El ID de usuario no es válido
+2024-12-13T16:11:21.025Z [ERROR]: llave duplicada viola restricción de unicidad «users_email_key»
+2024-12-13T16:11:50.146Z [ERROR]: El rol no es válido.
+2024-12-13T16:12:06.067Z [ERROR]: El rol no es válido.
+2024-12-13T16:12:32.006Z [ERROR]: No se encontró el usuario para eliminar
+2024-12-13T16:13:23.418Z [ERROR]: El número de teléfono es obligatorio
+2024-12-13T16:13:37.564Z [ERROR]: El email ya está registrado
+2024-12-13T16:13:49.113Z [ERROR]: El email ya está registrado
+2024-12-13T16:14:05.510Z [ERROR]: El email ya está registrado
+2024-12-13T16:17:08.953Z [ERROR]: No se encontró el estudiante para eliminar

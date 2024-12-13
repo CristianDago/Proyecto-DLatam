@@ -9,9 +9,18 @@ const router = Router();
 router.use(verifyToken);
 
 // Leer todos los usurios
-router.get("/", userController.getUsers);
+router.get("/", userController.getAllUsersHandler);
 
 // Crear un usuario
-router.post("/", userController.createUser);
+router.post("/", userController.createUserHandler);
+
+// Crear un usuario
+router.get("/:id", userController.getUserByIdHandler);
+
+// Crear un usuario
+router.put("/:id", userController.updateUserHandler);
+
+// Crear un usuario
+router.delete("/:id", userController.deleteUserHandler);
 
 export default router;

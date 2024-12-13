@@ -1,28 +1,41 @@
-import { userService } from "./user.service";
 import bcryptjs from "bcryptjs";
-import jwt from "jsonwebtoken";
+import { userService } from "./user.service";
+import { allowedRoles } from "../interfaces/user.interface";
+import { generateAccessToken } from "../utils/auth.util";
+import { HttpError } from "../utils/httpError.util";
 
-const loginWithEmailAndPassword = async (email: string, password: string) => {
-  const users = await userService.getAllUsers();
+const authenticateUser = async (email: string, password: string) => {
+  const user = await userService.findUserByEmail(email);
 
-  // 1.- Verificar que exite el usuario
-  const user = users.find((item) => item.email === email);
+  // Verificar que existe el usuario
   if (!user) {
-    throw new Error("El Usuario no existe");
+    throw new HttpError("El email no está registrado", 404);
   }
-  // 2.- Comprar los hash de contraseña
+
+  // Comparar los hash de contraseña
   const isValidPassword = await bcryptjs.compare(password, user.password);
   if (!isValidPassword) {
-    throw new Error("Contraseña Incorrecta");
+    throw new HttpError("La contraseña es incorrecta", 401);
   }
 
-  // 3.- Generar Token
-  const token = jwt.sign({ email: user.email, role: user.role }, "secret", {
-    expiresIn: "1h",
-  });
+  // Generar Token
+  const token = generateAccessToken(user.email, user.id, user.role);
+  return token;
+};
+
+const createUserAccount = async (
+  email: string,
+  password: string,
+  role: allowedRoles
+) => {
+  const newUser = await userService.registerUser(email, password, role);
+
+  // Generar Token
+  const token = generateAccessToken(newUser.email, newUser.id, newUser.role);
   return token;
 };
 
 export const authService = {
-  loginWithEmailAndPassword,
+  authenticateUser,
+  createUserAccount,
 };

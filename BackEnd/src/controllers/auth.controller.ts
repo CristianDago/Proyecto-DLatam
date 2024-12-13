@@ -1,41 +1,50 @@
-import { Request, Response } from "express";
-import { userService } from "../services/user.service";
+import { NextFunction, Request, Response } from "express";
 import { authService } from "../services/auth.service";
+import { HttpError } from "../utils/httpError.util";
+import { userLoginSchema, userRegisterSchema } from "../schemas/auth.schemas";
 
-// Creación Login
-const login = async (req: Request, res: Response) => {
+// Manejar Login
+const handleLogin = async (req: Request, res: Response, next: NextFunction) => {
   try {
-    const { email, password } = req.body;
+    const { error, value } = userLoginSchema.validate(req.body);
 
-    const token = await authService.loginWithEmailAndPassword(email, password);
+    if (error) {
+      throw new HttpError(error.message, 400);
+    }
+
+    const { email, password } = value;
+
+    const token = await authService.authenticateUser(email, password);
     res.json({ token });
   } catch (error) {
-    console.log(error);
-    if (error instanceof Error) {
-      res.status(500).json({ error: error.message });
-    } else res.status(500).json({ error: "Error de servidor" });
+    next(error);
   }
 };
 
-// Registro
-const register = async (req: Request, res: Response) => {
+// Manejar Registro
+const handleRegister = async (
+  req: Request,
+  res: Response,
+  next: NextFunction
+) => {
   try {
-    const { email, password, role } = req.body;
-    const newUser = await userService.createUserWithEmailAndPassword(
-      email,
-      password,
-      role
-    );
-    res.json({ newUser });
+    const { error, value } = userRegisterSchema.validate(req.body);
+
+    if (error) {
+      res.status(400).json({ error: error.message });
+      return;
+    }
+
+    const { email, password, role } = value;
+
+    const token = await authService.createUserAccount(email, password, role);
+    res.json({ token });
   } catch (error) {
-    console.log(error);
-    if (error instanceof Error) {
-      res.status(500).json({ error: error.message });
-    } else res.status(500).json({ error: "Error de servidor" });
+    next(error);
   }
 };
 
 export const authController = {
-  login,
-  register,
+  handleLogin,
+  handleRegister,
 };

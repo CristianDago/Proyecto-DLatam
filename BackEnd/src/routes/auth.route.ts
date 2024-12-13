@@ -4,7 +4,7 @@ import { verifyToken } from "../middlewares/jwt.middlewares";
 
 const router = Router();
 
-router.post("/login", authController.login); 
-router.post("/register", verifyToken, authController.register);
+router.post("/login", authController.handleLogin);
+router.post("/register", verifyToken, authController.handleRegister);
 
 export default router;

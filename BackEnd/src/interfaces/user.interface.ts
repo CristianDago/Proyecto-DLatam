@@ -1,4 +1,4 @@
-export type allowedRoles = "admin" | "user" | "moderator";
+export type allowedRoles = "admin" | "catcher" | "editor" | "visit";
 
 export interface User {
   id: string;
