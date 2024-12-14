@@ -6,12 +6,10 @@ const secret = process.env.JWT_SECRET || "secret";
 export const generateAccessToken = (
   email: string,
   uid: string,
-  role: string,
-  expiresIn = "1h" // Por defecto, 1 hora
+  role: string
 ) => {
-  console.log("expiresIn:", expiresIn);
   return jwt.sign({ email, uid, role }, secret, {
-    expiresIn, // Asegúrate de que expiresIn sea una cadena como "1h" o un número
+    expiresIn: "1h", // Asegúrate de que expiresIn sea una cadena como "1h" o un número
   });
 };
 

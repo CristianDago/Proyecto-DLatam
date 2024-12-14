@@ -1,4 +1,5 @@
 import { Request, Response, NextFunction } from "express";
+
 import { verifyAccessToken } from "../utils/auth.util";
 
 // Extender o modificar el comportamiento de un módulo ya existente.

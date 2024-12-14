@@ -176,3 +176,115 @@
 2024-12-13T16:13:49.113Z [ERROR]: El email ya está registrado
 2024-12-13T16:14:05.510Z [ERROR]: El email ya está registrado
 2024-12-13T16:17:08.953Z [ERROR]: No se encontró el estudiante para eliminar
+2024-12-13T20:41:58.405Z [ERROR]: Error al cargar usuarios
+2024-12-13T20:44:10.359Z [ERROR]: Error al cargar usuarios
+2024-12-13T20:44:31.989Z [ERROR]: Error al cargar usuarios
+2024-12-13T20:44:36.593Z [ERROR]: Error al cargar usuarios
+2024-12-13T20:44:44.822Z [ERROR]: Error al cargar usuarios
+2024-12-13T20:46:37.332Z [ERROR]: Error al cargar usuarios
+2024-12-13T20:48:31.196Z [ERROR]: Error al cargar usuarios
+2024-12-13T20:48:59.487Z [ERROR]: Error al cargar usuarios
+2024-12-13T20:50:25.891Z [ERROR]: Error al cargar usuarios
+2024-12-13T20:51:30.466Z [ERROR]: Error al cargar usuarios
+2024-12-13T20:52:01.146Z [ERROR]: Error al cargar usuarios
+2024-12-13T20:52:28.209Z [ERROR]: Error al cargar usuarios
+2024-12-13T20:52:32.880Z [ERROR]: Error al cargar usuarios
+2024-12-13T20:54:54.070Z [ERROR]: __vite_ssr_import_0__.UserModel.findById is not a function
+2024-12-13T20:58:10.707Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:00:17.545Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:00:39.988Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:12:15.851Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:12:48.622Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:13:23.369Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:13:31.447Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:14:18.115Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:15:53.635Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:17:22.705Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:17:25.343Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:17:29.228Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:17:59.963Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:18:17.786Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:24:06.588Z [ERROR]: __vite_ssr_import_0__.UserModel.findById is not a function
+2024-12-13T21:24:25.703Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:27:04.673Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:27:23.232Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:41:55.618Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:44:53.501Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:45:06.376Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:45:08.255Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:45:11.729Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:45:23.060Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:48:11.972Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:48:17.713Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:48:35.765Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:49:34.222Z [ERROR]: Error al cargar usuarios
+2024-12-13T21:59:40.997Z [ERROR]: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-12-13T22:13:57.172Z [ERROR]: Error al cargar usuarios
+2024-12-13T22:15:23.826Z [ERROR]: Error al cargar usuarios
+2024-12-13T22:15:44.660Z [ERROR]: Error al cargar usuarios
+2024-12-13T22:15:53.831Z [ERROR]: Error al cargar usuarios
+2024-12-13T22:18:42.985Z [ERROR]: Error al cargar usuarios
+2024-12-13T22:19:28.439Z [ERROR]: Error al cargar usuarios
+2024-12-13T22:19:35.118Z [ERROR]: Error al cargar usuarios
+2024-12-13T22:20:57.676Z [ERROR]: Error al cargar usuarios
+2024-12-13T22:22:55.485Z [ERROR]: Error al cargar usuarios
+2024-12-13T22:23:56.445Z [ERROR]: Error al cargar usuarios
+2024-12-13T22:24:44.425Z [ERROR]: Error al cargar usuarios
+2024-12-13T22:24:48.916Z [ERROR]: Error al cargar usuarios
+2024-12-13T22:38:54.819Z [ERROR]: El correo electrónico es obligatorio.
+2024-12-13T22:39:35.336Z [ERROR]: El correo electrónico es obligatorio.
+2024-12-13T22:40:04.206Z [ERROR]: El correo electrónico es obligatorio.
+2024-12-13T22:40:30.411Z [ERROR]: El correo electrónico es obligatorio.
+2024-12-13T22:41:04.277Z [ERROR]: El correo electrónico es obligatorio.
+2024-12-13T22:42:03.221Z [ERROR]: El correo electrónico es obligatorio.
+2024-12-13T23:04:33.564Z [ERROR]: Error al cargar usuarios
+2024-12-13T23:04:56.482Z [ERROR]: Error al cargar usuarios
+2024-12-13T23:05:25.752Z [ERROR]: Error al cargar usuarios
+2024-12-13T23:09:50.571Z [ERROR]: Error al cargar usuarios
+2024-12-13T23:10:13.758Z [ERROR]: Error al cargar usuarios
+2024-12-13T23:10:39.845Z [ERROR]: Error al cargar usuarios
+2024-12-13T23:12:42.174Z [ERROR]: Error al cargar usuarios
+2024-12-13T23:13:10.535Z [ERROR]: Error al cargar usuarios
+2024-12-13T23:13:31.801Z [ERROR]: Error al cargar usuarios
+2024-12-13T23:15:17.234Z [ERROR]: Error al cargar usuarios
+2024-12-14T00:17:36.206Z [ERROR]: El email ya está registrado
+2024-12-14T00:18:02.643Z [ERROR]: El número de teléfono es obligatorio
+2024-12-14T00:18:18.416Z [ERROR]: El email ya está registrado
+2024-12-14T00:25:09.111Z [ERROR]: Error al cargar usuarios
+2024-12-14T00:25:12.113Z [ERROR]: Error al cargar usuarios
+2024-12-14T00:27:26.504Z [ERROR]: Error al cargar usuarios
+2024-12-14T00:27:26.567Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:27:46.702Z [ERROR]: Error al cargar usuarios
+2024-12-14T00:27:46.774Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:30:51.381Z [ERROR]: Error al cargar usuarios
+2024-12-14T00:30:58.599Z [ERROR]: Error al cargar usuarios
+2024-12-14T00:37:30.807Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:37:36.709Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:37:44.996Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:42:25.206Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:42:38.511Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:45:26.141Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:45:29.870Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:45:45.017Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:50:15.779Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:50:39.579Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:50:52.796Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:51:02.726Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:55:35.242Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:55:54.586Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:57:57.759Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:59:22.576Z [ERROR]: El ID de usuario no es válido
+2024-12-14T00:59:56.198Z [ERROR]: El ID de usuario no es válido
+2024-12-14T01:00:23.434Z [ERROR]: El ID de usuario no es válido
+2024-12-14T01:00:49.707Z [ERROR]: El ID de usuario no es válido
+2024-12-14T01:01:54.198Z [ERROR]: El ID de usuario no es válido
+2024-12-14T01:02:41.147Z [ERROR]: El ID de usuario no es válido
+2024-12-14T01:02:54.831Z [ERROR]: El ID de usuario no es válido
+2024-12-14T01:03:10.584Z [ERROR]: El ID de usuario no es válido
+2024-12-14T01:03:42.403Z [ERROR]: El ID de usuario no es válido
+2024-12-14T01:04:00.177Z [ERROR]: El ID de usuario no es válido
+2024-12-14T01:04:08.692Z [ERROR]: El ID de usuario no es válido
+2024-12-14T01:04:31.683Z [ERROR]: El ID de usuario no es válido
+2024-12-14T01:05:35.662Z [ERROR]: El ID de usuario no es válido
+2024-12-14T01:05:56.712Z [ERROR]: El ID de usuario no es válido
+2024-12-14T01:06:26.953Z [ERROR]: El ID de usuario no es válido
